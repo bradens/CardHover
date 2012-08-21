@@ -1,0 +1,13 @@
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\bin\Release\CardHover.exe
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\bin\Release\CardHover.pdb
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\ResolveAssemblyReference.cache
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.Caching.resources
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.Main.resources
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.pictureBox.resources
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.Properties.Resources.resources
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.SettingsForm.resources
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.csproj.GenerateResource.Cache
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.exe
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.pdb
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.About.resources
+C:\Users\braden\Documents\Visual Studio 2008\Projects\CardHover\CardHover\obj\Release\CardHover.HowTo.resources
